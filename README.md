@@ -18,14 +18,10 @@
   <a href="mailto:mail2pradyumnasaw@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-cyan?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
 </a>
-
 <a href="https://www.linkedin.com/in/pradyumna-saw-9217b5243/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
 </a>
-
-
 <h4 align="left">🛠️ Languages and Tools :</h4>
-
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
