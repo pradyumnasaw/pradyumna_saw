@@ -22,13 +22,18 @@
   <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
 </a>
 <h4 align="left">🛠️ Languages and Tools :</h4>
+
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-3776ab?style=for-the-badge&logo=django&logoColor=yellow)](https://docs.djangoproject.com/en/5.1/)
 [![MySQL](https://img.shields.io/badge/MySQL-E34F26?style=for-the-badge&logo=mysql&logoColor=black)](https://dev.mysql.com/doc/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-F7DF1E?style=for-the-badge&logo=streamlit&logoColor=black)](https://docs.streamlit.io/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-pink?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-pink?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/enUS/docs/Web/JavaScript)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Chat GPT](https://img.shields.io/badge/Chat_GPT-000000?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
+<!-- <div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python ,mysql</div>-->
+<!-- <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  &nbsp;   </a> &nbsp;> </a> &nbsp;  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp; <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;  &nbsp;  </p>
+ -->
