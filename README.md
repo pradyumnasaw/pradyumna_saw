@@ -8,7 +8,7 @@
 
 
 
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradyumnasaw&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="pradyumnasaw" />-->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradyumnasaw&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="pradyumnasaw" />
 <p align="left">💻  About Me : </p>
 🔭 Currently working as a Python Developer.
 
